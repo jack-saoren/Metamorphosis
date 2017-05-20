@@ -30,5 +30,7 @@ public class Log4jTest {
 
     public static void main(final String[] args) {
         log.info("just a test");
+        sysout
     }
+    
 }
